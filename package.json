@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@langchain/mistralai": "^1.2.1",
+    "langchain": "^1.6.8"
+  },
+  "name": "gen-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
